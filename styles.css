@@ -378,3 +378,29 @@
         margin-bottom: 10px;
     }
 }
+
+.faqs {
+    background-color: red;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px 100px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    gap: 10px;
+}
+.faqs .faqTitle {
+    font-size: 24px;
+    font-weight: 400;
+}
+.faqs .faqSection {
+    background-color: grey;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 400;
+}
+.faqs .faqSection .faq {
+    
+}
